@@ -1,0 +1,26 @@
+
+
++ keep track of all objects in the scene (one of each kind of object)
+
+- stream from the camera
+- with each captured frame send it through yolo to get the bounding points
+- get the depth distance at thoughs points
+- send throughs depth and x, y points into open3d
+
+----------------------------------------------------------------------
+
+thesis
+
+1 introduction
+	
+
+2 background
+	what are the technoligies being used, the camera etc
+	and how they work.
+
+3 approach
+	
+
+4 experement and results
+
+5 conclusions
